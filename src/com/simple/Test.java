@@ -6,6 +6,7 @@ public class Test {
 		String s="Alok Ranjan";
 		String s1="Ji Good Morning";
 		System.out.println("Hello :"+s + " "+s1);
+		System.out.println("Namaskar");
 	}
 
 }
